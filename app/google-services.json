@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561387113376",
+    "project_id": "loginregister-ce298",
+    "storage_bucket": "loginregister-ce298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561387113376:android:7cffe9fb906879c4c472c5",
+        "android_client_info": {
+          "package_name": "com.mirea.moses.loginregisterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561387113376-gej2tfledb0pgpqvvs0ranqsb04icgnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mirea.moses.loginregisterfirebase",
+            "certificate_hash": "6511cf536bceb002ec9ecae2fa0c665a446ca7f0"
+          }
+        },
+        {
+          "client_id": "561387113376-j80ifnobqkua1fp9kjh911ja1jkriu5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWSdE8GZ2ZQ2ygQoLoJqLZH6jR2TNu_HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561387113376-j80ifnobqkua1fp9kjh911ja1jkriu5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
